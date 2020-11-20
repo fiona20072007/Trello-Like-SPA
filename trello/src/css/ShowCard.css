@@ -1,0 +1,17 @@
+.dragItem {
+  width: 100px;
+  max-height: 20px;
+  margin: 10px;
+  padding: 5px;
+  height: 20px;
+  border: 3px dotted salmon;
+}
+#drag {
+  display: flex;
+  margin: 10px;
+}
+
+.placeHolder {
+  background-color: green;
+  height: 0px;
+}
