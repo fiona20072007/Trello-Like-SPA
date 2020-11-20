@@ -33,7 +33,6 @@ function ShowList(props) {
                   handleDelete={props.handleDelete}
                   handleEditTitle={props.handleEditTitle}
                   handleSave={props.handleSave}
-                  handleTitleChange={props.handleTitleChange}
                 />
               </li>
             );
@@ -71,7 +70,6 @@ function ShowList(props) {
                   handleDelete={props.handleDelete}
                   handleEditTitle={props.handleEditTitle}
                   handleSave={props.handleSave}
-                  handleTitleChange={props.handleTitleChange}
                 />
               </li>
             );
